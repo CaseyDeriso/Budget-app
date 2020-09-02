@@ -1,7 +1,7 @@
 # BUDGETY. 
 
 
-Budgety is my first completed project in vanilla JavaScript. I was walked through the javascript line by line, it started as a completed HTML and CSS page that the course "Javascript master course" by Jonas Schmedtman provided. 
+Budgety is my first completed project in vanilla JavaScript. I was walked through the javascript line by line, it started as a completed HTML and CSS page that the course "Javascript master course" by Jonas Schmedtmann provided. 
 
 ### Functionality that I have added beyond base project in lecture:
 
